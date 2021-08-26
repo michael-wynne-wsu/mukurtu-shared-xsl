@@ -1,0 +1,124 @@
+Mukurtu Core,"MARC tag and name
+(https://www.loc.gov/marc/bibliographic/)",Mapping/content notes,Mukurtu Core field format notes,"SR10 example (as converted from MRC to CSV)
+Only select fields included in conversion",SR10 example (as staged in CSV for import),"SR10 example (as displayed on Passamaquoddy site)
+Note: multi-value fields here are shown with semicolons and line breaks for ease of visibility. 
+When displayed in site they are instead hyperlinked and visually separated with a comma."
+Mukurtu Essentials,,,,,,
+Title,245 - Title Statement,No modifications neeeded,Single value,"Passamaquoddy story of Glooscap and the animals,part 3[sound recording] /spoken by Noel Joseph.",Passamaquoddy story of Glooscap and the animals part 3 [sound recording] / spoken by Noel Joseph.,Passamaquoddy story of Glooscap and the animals part 3 [sound recording] / spoken by Noel Joseph.
+Summary,246 - Varying Form of Title,No modifications neeeded,"Single value
+255 character limit",Jesse Walter Fewkes collection of Passamaquoddy cylinder recordings SR10,Jesse Walter Fewkes collection of Passamaquoddy cylinder recordings SR10,Jesse Walter Fewkes collection of Passamaquoddy cylinder recordings SR10
+Media Assets,,No direct mapping,"Use atom SID
+Separate multiple values with semicolons",,71,[Embedded HTML5 media player]
+Community,,No direct mapping,"Use community NID
+Separate multiple values with semicolons",,43,American Folklife Center Library of Congress
+Protocol,,"No direct mapping
+","Use protocol NID
+Separate multiple values with semicolons",,44,Library of Congress Public Access
+Item Sharing Settings,,No direct mapping,Any or All,,All,All
+Category,,"No direct mapping
+Likely Songs or Stories, but determine as needed",Separate multiple values with semicolons,,Stories,Stories
+Creator,700 - Added Entry - Personal Name,No modifications needed,Separate multiple values with semicolons,"Fewkes, Jesse Walter,1850-1930,recordist,speaker.;Joseph, Noel,performer.","Fewkes, Jesse Walter, 1850-1930, recordist, speaker; Joseph, Noel, performer","Fewkes, Jesse Walter, 1850-1930, recordist, speaker; 
+Joseph, Noel, performer"
+Contributor,,Not used for AFC-Mukurtu records,Separate multiple values with semicolons,,,
+Original Date,"260 - Publication, Distribution, etc. (Imprint)",No modifications needed,"Ensure ISO (yyyy-mm-dd) formatting
+Partial dates accepted
+Single value",1890-03-15.,1890-03-15,1890 March 15th
+Original Date Description,518 - Date/Time and Place of an Event Note,No modifications needed,"Single value
+255 character limit","Recorded in Calais, Maine on March 15, 1890 by Jesse Walter Fewkes.","Recorded in Calais, Maine on March 15, 1890 by Jesse Walter Fewkes.","Recorded in Calais, Maine on March 15, 1890 by Jesse Walter Fewkes."
+,,,,,,
+Mukurtu Core,,,,,,
+Cultural Narrative,,Not used for AFC-Mukurtu records,"Rich text (HTML supported)
+Single value
+No character limit",,,
+Traditional Knowledge,,Not used for AFC-Mukurtu records,"Rich text (HTML supported)
+Single value
+No character limit",,,
+Description,"520 - Summary, etc. (Abstract)
+500 - 
+General Note (Engineer note)
+544 - Location of Other Archival Materials Note
+546 - Language Note","Concatenate fields
+Manual cleanup done as needed
+May need to assess these and other unmapped notes fields on a record by record basis","Rich text (HTML supported)
+Single value
+No character limit","[520]
+""The story of how Glooscap reduced the size of the animals. These cylinders give the story in substantially the same way as published by Leland in his ""Algonguin Legends."""" --Fewkes, JAF 1890, p 258
+
+[500]
+Engineer notes: Cylinder is noisy, surface damaged; disc cracked; perhaps could be cleaned and get better transfer; speech is somewhat clear at first, but then is hard to understand.;FCP notes: Announcement: ""Glooscap and the animals, #3, put on the phonograph on March the 15th, 1890--story told by Newell Josephs [sic].""
+
+[544]
+Related Fewkes' fieldnotes are located at the National Anthropological Archives (ms. 4408:9) p. 39, 47-52.
+
+[546]
+Introduction in English, story in Passamaquoddy language.","<p>Abstract: ""The story of how Glooscap reduced the size of the animals. These cylinders give the story in substantially the same way as published by Leland in his ""Algonguin Legends."""" --Fewkes, JAF 1890, p 258</p>
+
+<p>Engineer notes: Cylinder is noisy, surface damaged; disc cracked; perhaps could be cleaned and get better transfer; speech is somewhat clear at first, but then is hard to understand.</p>
+
+<p>Location of related materials: Related Fewkes' fieldnotes are located at the National Anthropological Archives (ms. 4408:9) p. 39, 47-52.</p>
+
+<p>Language note: Introduction in English, story in Passamaquoddy language.</p>","Abstract: ""The story of how Glooscap reduced the size of the animals. These cylinders give the story in substantially the same way as published by Leland in his ""Algonguin Legends."""" --Fewkes, JAF 1890, p 258
+
+Engineer notes: Cylinder is noisy, surface damaged; disc cracked; perhaps could be cleaned and get better transfer; speech is somewhat clear at first, but then is hard to understand.
+
+Location of related materials: Related Fewkes' fieldnotes are located at the National Anthropological Archives (ms. 4408:9) p. 39, 47-52.
+
+Language note: Introduction in English, story in Passamaquoddy language."
+Keywords,655 - Index Term - Genre/Form,Removed subject heading notation,Separate multiple values with semicolons,Tales.--afset;Folk tales.--lcgft;Field recordings.--lcgft;Cylinder recordings.--lcsh,Tales; Folk tales; Field recordings; Cylinder recordings,"Tales; 
+Folk tales;
+Field recordings; 
+Cylinder recordings"
+,,,,,,
+Rights and Permissions,,,,,,
+Publisher,,Not used for AFC-Mukurtu records,Separate multiple values with semicolons,,,
+Rights,540 - Terms Governing Use and Reproduction Note,540 field needs to be divided,Single value,"Rights are held by the Peabody Museum of Archaeology and Ethnology, Harvard University.","Rights are held by the Peabody Museum of Archaeology and Ethnology, Harvard University.","Rights are held by the Peabody Museum of Archaeology and Ethnology, Harvard University."
+Traditional Knowledge Labels,540 - Terms Governing Use and Reproduction Note,"540 field needs to be divided
+Sensitive records will use a different set of labels, TBD","
+Must use URL formatting
+Separate multiple values with semicolons","Traditional Knowledge Label: Attribution - Elihtasik (How it is done). When using anything that has this Label, please use the correct attribution. This may include individual Passamaquoddy names, it may include Passamaquoddy as the correct cultural affiliation or it may include Passamaquoddy Tribe as the tribal designation.http://passamaquoddypeople.com/digital-heritage/elihtasik-trans-how-it-done;
+
+Traditional Knowledge Label: Outreach - Ekehkimkewey (Educational). Certain material has been identified by Passamaquoddy tribal members and can be used and shared for educational purposes. Ekehkimkewey means 'educational'. The Passamaquoddy Tribe is a present day community who retains cultural authority over its heritage. This Label is being used to teach and share cultural knowledge and histories in schools, and to raise greater awareness and respect for Passamaquoddy culture and worldviews.http://passamaquoddypeople.com/digital-heritage/ekehkimkewey-trans-educational;
+
+Traditional Knowledge Label: Non-Commercial - Ma yut monuwasiw (This is not sold). This material should not be used in any commercial ways, including ways that derive profit from sale or production for non-Passamaquoddy people. The name of this Label, Ma yut monuwasiw, means 'this is not to be purchased'.http://passamaquoddypeople.com/digital-heritage/ma-yut-monuwasiw-trans-not-sold",http://localcontexts.org/tk/a/1.0; http://localcontexts.org/tk/o/1.0; http://localcontexts.org/tk/nc/1.0,"http://localcontexts.org/tk/a/1.0;
+http://localcontexts.org/tk/o/1.0;
+http://localcontexts.org/tk/nc/1.0"
+Licensing Options,,Not used for AFC-Mukurtu records,"Must use URL formatting
+Single value",,,
+,,,,,,
+Additional Metadata,,,,,,
+Format,300 - Physical Description,No modifications needed,Separate multiple values with semicolons,1 sound cylinder (2:51 min.) ;3.75 in.,1 sound cylinder (2:51 min.); 3.75 in.,"1 sound cylinder (2:51 min.);
+3.75 in."
+Type,,Extracted from 245,Separate multiple values with semicolons,,Sound Recording,Sound Recording
+Identifier,90 - Local Call Numbers,No modifications neeeded,Single value,Cylinder 4241;AFS 14737: A19;RKF 0008;AFC 1972/003: SR10,Cylinder 4241; AFS 14737: A19 090; RKF 0008 090; AFC 1972/003: SR10,Cylinder 4241; AFS 14737: A19 090; RKF 0008 090; AFC 1972/003: SR10
+Language,546 - Language Note,Extract language names from 546 field (included in full in Description),Separate multiple values with semicolons,"Introduction in English, story in Passamaquoddy language.",Passamaquoddy; English,"Passamaquoddy;
+English"
+Source,524 - Preferred Citation of Described Materials Note,"Concatenate with LCCN Permalink
+A new ""external links"" field will be released in a future version and records will be updated to add that at that time",Single value,"Jesse Walter Fewkes collection of Passamaquoddy cylinder recordings (AFC 1972/003: SR10) American Folklife Center, Library of Congress, Washington, D.C.","Jesse Walter Fewkes collection of Passamaquoddy cylinder recordings (AFC 1972/003: SR10) American Folklife Center, Library of Congress, Washington, D.C. https://lccn.loc.gov/2015655559","Jesse Walter Fewkes collection of Passamaquoddy cylinder recordings (AFC 1972/003: SR10) American Folklife Center, Library of Congress, Washington, D.C. https://lccn.loc.gov/2015655559"
+Subject,650 - Subject Added Entry - Topical Term,No modifications needed,Separate multiple values with semicolons,Passamaquoddy Indians--Maine--Calais.;Indians of North America--Northeastern States.;Passamaquoddy Indians--Folklore.;Gluskap (Legendary character);Tales.,Passamaquoddy Indians--Maine--Calais; Indians of North America--Northeastern States; Passamaquoddy Indians--Folklore; Gluskap (Legendary character); Tales,"Passamaquoddy Indians--Maine--Calais; 
+Indians of North America--Northeastern States; 
+Passamaquoddy Indians--Folklore; 
+Gluskap (Legendary character); 
+Tales"
+People,,Not used for AFC-Mukurtu records,Separate multiple values with semicolons,,,
+Transcription,,Not used for AFC-Mukurtu records,"Single value
+No character limit",,,
+Location Description,651 - Subject Added Entry - Geographic Name,No modifications needed,"Rich text (HTML supported)
+Single value
+No character limit",Calais (Me.),"Calais, (Me.)","Calais, (Me.)"
+Location,,Not used for AFC-Mukurtu records,Geocode (lat/long),,,
+,,,,,,
+Relations,,,,,,
+Collections,,No direct mapping,"Use NIDs
+Separate multiple values with semicolons",,45,1890 Passamaquoddy Phonograph Recordings
+Related Digital Heritage Items,,Not used for AFC-Mukurtu records,"Use NIDs
+Separate multiple values with semicolons",,,
+Related Dictionary Words,,Not used for AFC-Mukurtu records,"Use NIDs
+Separate multiple values with semicolons",,,
+,,,,,,
+Batch Import Specific Fields,,,,,,
+guid,,"No direct mapping
+Generate guids
+Only needed when batch importing new records",Single value,,,
+Username,,"No direct mapping
+Use generic site adminsitrator account","Single value
+Must be a valid username",,passamaq,passamaq
